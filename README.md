@@ -8,8 +8,8 @@
 <br>
 
 # 📖 INDEX  
+ * 📌 [Overview](#-overview)
  * 📥 [Installation Guide](#-installation-guide)  
- * 📌 [Overview](#-overview)  
  * 🏗️ [Architecture & Workflow](#%EF%B8%8F-architecture--workflow)  
  * 🛠️ [Technologies Used](#%EF%B8%8F-technologies-used)  
  * 📷 [Usage Examples](#-usage-examples)  
@@ -59,9 +59,9 @@ Hugging Face Transformers
 PyInstaller (to build .exe)
 
 <br>
-
 <br>
-📷 Usage Examples
+
+# 📷 Usage Examples
 
 App Interface
 
@@ -82,7 +82,7 @@ Paura: 0.05
 <br>
 <br>
 
-📄 License
+# 📄 License
 
 This project is released under the MIT License
 .
