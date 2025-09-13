@@ -47,9 +47,44 @@ The user inputs Italian text → The Hugging Face pipelines classify sentiment a
 
 # 📥 Installation Guide  
 
-### Option 1: Run with Python  
-```bash
-git clone https://github.com/yourusername/sentiment-analyzer.git
-cd sentiment-analyzer
-pip install -r requirements.txt
-python app.py
+# 🛠️ Technologies Used
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow" /> <br>
+
+Python 3.x
+
+Tkinter (GUI)
+
+Hugging Face Transformers
+
+PyInstaller (to build .exe)
+
+<br>
+
+<br>
+📷 Usage Examples
+
+App Interface
+
+The user writes a text in Italian, then clicks "Analizza Sentimento".
+
+Output Example:
+
+Testo Analizzato: "Oggi è una giornata fantastica!"  
+
+Sentimento principale: positivo (Confidenza: 0.92)  
+
+Emozioni:
+Gioia: 0.88
+Tristezza: 0.03
+Rabbia: 0.04
+Paura: 0.05
+
+<br>
+<br>
+
+📄 License
+
+This project is released under the MIT License
+.
+Feel free to use, modify, and share! 🚀
