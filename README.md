@@ -38,7 +38,6 @@ Originally built as an experiment, the project helped me explore **NLP (Natural 
 *The app works entirely offline once the models are downloaded.*  
 The user inputs Italian text → The Hugging Face pipelines classify sentiment and emotions → Results are shown in a Tkinter popup.  
 
-<img src="https://github.com/michelecortiana/DigitML/blob/main/README%20-%20Stuff/data-flow.svg" width=70% alt="workflow example"/>  
 
 <br>
 
