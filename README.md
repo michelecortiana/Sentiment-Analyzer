@@ -55,7 +55,7 @@ The user writes an Italian text, then clicks **"Analizza Sentimento"**.
 
 **Sentimento principale:**  
 `positivo (Confidenza: 0.92)`  
-<br><br><br>
+<br><br>
 ![App Screenshot](result.png)<br><br>
 **Emozioni:**  
 - Gioia → 0.88  
