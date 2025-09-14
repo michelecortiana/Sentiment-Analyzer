@@ -49,13 +49,14 @@ The user writes an Italian text, then clicks **"Analizza Sentimento"**.
 
 ### Example Output  
 ![App Screenshot](graph.png)
-<br>
+<br><br>
 **Testo Analizzato:**  
 `Oggi è una giornata fantastica!`  
 
 **Sentimento principale:**  
 `positivo (Confidenza: 0.92)`  
-![App Screenshot](result.png)<br>
+<br><br><br>
+![App Screenshot](result.png)<br><br>
 **Emozioni:**  
 - Gioia → 0.88  
 - Tristezza → 0.03  
