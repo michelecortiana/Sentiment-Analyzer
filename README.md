@@ -48,6 +48,7 @@ The user writes an Italian text, then clicks **"Analizza Sentimento"**.
 
 ### Example Output  
 ![App Screenshot](graph.png)
+<br>
 **Testo Analizzato:**  
 `Oggi è una giornata fantastica!`  
 
