@@ -10,7 +10,6 @@
 # 📖 Index
 - 📌 [Overview](#-overview)  
 - 📥 [Download & Installation](#-download--installation)  
-- 🏗️ [Architecture & Workflow](#%EF%B8%8F-architecture--workflow)  
 - 📷 [Usage Examples](#-usage-examples)  
 - 📄 [License](#-license)  
 
