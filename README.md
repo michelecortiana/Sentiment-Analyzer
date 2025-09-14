@@ -41,22 +41,13 @@ The app integrates **Hugging Face Transformers pipelines**, allowing users to an
 After that, the app works **offline**.  
 
 ---
-
-# 🏗️ Architecture & Workflow
-
-1. **User Input** → The user writes a short text in Italian.  
-2. **Model Processing** → Hugging Face models classify both sentiment and emotions.  
-3. **Results** → Shown as text in a popup and visualized as a bar chart.  
-
----
-
 # 📷 Usage Examples
 
 ### App Interface  
 The user writes an Italian text, then clicks **"Analizza Sentimento"**.  
 
 ### Example Output  
-
+![App Screenshot](graph.png)
 **Testo Analizzato:**  
 `Oggi è una giornata fantastica!`  
 
