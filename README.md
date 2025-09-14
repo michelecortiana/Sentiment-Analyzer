@@ -44,11 +44,11 @@ After that, the app works **offline**.
 # 📷 Usage Examples
 
 ### App Interface  
-![App Screenshot](interface.png)<br>
+![App Screenshot](img/interface.png)<br>
 The user writes an Italian text, then clicks **"Analizza Sentimento"**.  
 
 ### Example Output  
-![App Screenshot](graph.png)
+![App Screenshot](img/graph.png)
 <br><br>
 **Testo Analizzato:**  
 `Oggi è una giornata fantastica!`  
@@ -56,7 +56,7 @@ The user writes an Italian text, then clicks **"Analizza Sentimento"**.
 **Sentimento principale:**  
 `positivo (Confidenza: 0.92)`  
 <br><br>
-![App Screenshot](result.png)<br><br>
+![App Screenshot](img/result.png)<br><br>
 **Emozioni:**  
 - Gioia → 0.88  
 - Tristezza → 0.03  
