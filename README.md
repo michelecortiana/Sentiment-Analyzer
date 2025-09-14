@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="logo python" width="15%">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="15%">
   <br><br>
   <i>First experiment with Machine Learning & AI applied to Sentiment Analysis in Italian,<br>
   using Hugging Face models and a simple Tkinter GUI.</i>
