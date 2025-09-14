@@ -1,89 +1,78 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" alt="logo python" width=15%> <br>
-<i width=80%>First experiment with Machine Learning & AI applied to Sentiment Analysis in Italian, using Hugging Face models and a simple Tkinter GUI.</i>
+  <img src="https://skillicons.dev/icons?i=python" alt="logo python" width="15%">
+  <br><br>
+  <i>First experiment with Machine Learning & AI applied to Sentiment Analysis in Italian,<br>
+  using Hugging Face models and a simple Tkinter GUI.</i>
 </p>
-<br>
-
-<br>
-<br>
-
-# 📖 INDEX  
- * 📌 [Overview](#-overview)
- * 📥 [Installation Guide](#-installation-guide)  
- * 🏗️ [Architecture & Workflow](#%EF%B8%8F-architecture--workflow)  
- * 🛠️ [Technologies Used](#%EF%B8%8F-technologies-used)  
- * 📷 [Usage Examples](#-usage-examples)  
- * 📄 [License](#-license)  
-
-<br>
-<br>
-
-# 📌 Overview  
-
-**Sentiment Analyzer** is a personal project created as my **first step into Machine Learning and AI**.  
-It is a simple GUI-based application written in **Python + Tkinter** that analyzes **sentiment** (positive / negative / neutral) and **emotions** (joy, sadness, anger, fear) in **Italian text**.  
-
-Originally built as an experiment, the project helped me explore **NLP (Natural Language Processing)** and how to integrate Hugging Face models into a standalone desktop app.  
-
-> [!TIP]  
-> You can use the **.exe version** (Windows) without needing to install Python.  
-
-<br>
 
 ---
-<br>
 
-# 🏗️ Architecture & Workflow  
-
-*The app works entirely offline once the models are downloaded.*  
-The user inputs Italian text → The Hugging Face pipelines classify sentiment and emotions → Results are shown in a Tkinter popup.  
-
-
-<br>
+# 📖 Index
+- 📌 [Overview](#-overview)  
+- 📥 [Download & Installation](#-download--installation)  
+- 🏗️ [Architecture & Workflow](#%EF%B8%8F-architecture--workflow)  
+- 📷 [Usage Examples](#-usage-examples)  
+- 📄 [License](#-license)  
 
 ---
-<br>
 
-# 📥 Installation Guide  
+# 📌 Overview
 
-# 🛠️ Technologies Used
+**Sentiment Analyzer** is my **first personal project** exploring the world of **Machine Learning and Natural Language Processing (NLP)**.  
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" /> <br>
+It is a simple **desktop application** (built with **Python + Tkinter**) that analyzes:  
+- **Sentiment** → *positive / negative / neutral*  
+- **Emotions** → *joy, sadness, anger, fear*  
 
-Python 3.x
+All in **Italian language** 🇮🇹.  
 
-Tkinter (GUI)
+The app integrates **Hugging Face Transformers pipelines**, allowing users to analyze text through an intuitive graphical interface.  
 
-Hugging Face Transformers
+---
 
-PyInstaller (to build .exe)
+# 📥 Download & Installation
 
-<br>
-<br>
+👉 **No Python required!**  
+
+1. Go to the [Releases](../../releases) section.  
+2. Download the latest `SentimentAnalyzer.exe`.  
+3. Double-click the `.exe` to start the application.  
+
+⚠️ On first run the models will be downloaded from Hugging Face (Internet required).  
+After that, the app works **offline**.  
+
+---
+
+# 🏗️ Architecture & Workflow
+
+1. **User Input** → The user writes a short text in Italian.  
+2. **Model Processing** → Hugging Face models classify both sentiment and emotions.  
+3. **Results** → Shown as text in a popup and visualized as a bar chart.  
+
+---
 
 # 📷 Usage Examples
 
-App Interface
+### App Interface  
+The user writes an Italian text, then clicks **"Analizza Sentimento"**.  
 
-The user writes a text in Italian, then clicks "Analizza Sentimento".
+### Example Output  
 
-Output Example:
+**Testo Analizzato:**  
+`Oggi è una giornata fantastica!`  
 
-Testo Analizzato: "Oggi è una giornata fantastica!"  
+**Sentimento principale:**  
+`positivo (Confidenza: 0.92)`  
 
-Sentimento principale: positivo (Confidenza: 0.92)  
+**Emozioni:**  
+- Gioia → 0.88  
+- Tristezza → 0.03  
+- Rabbia → 0.04  
+- Paura → 0.05  
 
-Emozioni:
-Gioia: 0.88
-Tristezza: 0.03
-Rabbia: 0.04
-Paura: 0.05
-
-<br>
-<br>
+---
 
 # 📄 License
 
-This project is released under the MIT License
-.
-Feel free to use, modify, and share! 🚀
+Released under the **MIT License**.  
+Feel free to use, modify, and share 🚀
