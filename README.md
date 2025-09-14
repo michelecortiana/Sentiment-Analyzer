@@ -34,9 +34,8 @@ The app integrates **Hugging Face Transformers pipelines**, allowing users to an
 
 👉 **No Python required!**  
 
-1. Go to the [Releases](../../releases) section.  
-2. Download the latest `SentimentAnalyzer.exe`.  
-3. Double-click the `.exe` to start the application.  
+1. Download the latest `SentimentAnalyzer.exe`.
+2. Double-click the `.exe` to start the application.  
 
 ⚠️ On first run the models will be downloaded from Hugging Face (Internet required).  
 After that, the app works **offline**.  
