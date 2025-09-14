@@ -31,13 +31,14 @@ The app integrates **Hugging Face Transformers pipelines**, allowing users to an
 
 # 📥 Download & Installation
 
-👉 **No Python required!**  
+**⚠️ Python 3.x is required on the machine to run this app.**
 
-1. Download the latest `SentimentAnalyzer.exe`.
-2. Double-click the `.exe` to start the application.  
+1. Download the latest SentimentAnalyzer folder (includes all files and the batch file).
+2. Make sure Python 3.x is installed and added to your system PATH.
+3.Open the folder and double-click run_sentiment_analyzer.bat to start the application.
 
-⚠️ On first run the models will be downloaded from Hugging Face (Internet required).  
-After that, the app works **offline**.  
+On first run, the batch file will install the required Python packages (from requirements.txt) and download the Hugging Face models (Internet connection required).
+After that, the app works offline.
 
 ---
 # 📷 Usage Examples
